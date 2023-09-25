@@ -1,3 +1,11 @@
+# Preview
+
+
+
+https://github.com/robertDinca2003/X-and-O-game-JS/assets/71851178/71f4b03c-01f5-4d57-8bab-760366bd98b3
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
